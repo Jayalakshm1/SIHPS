@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 08/05/2024
+## Register Number: 212221040066
+## Name: Jayalakshmi M
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
