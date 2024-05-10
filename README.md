@@ -13,12 +13,13 @@ Create a website and mobile app that serves as an E-Waste Facility Locator, offe
 ## Proposed Solution / Architecture Diagram
 ![image](https://github.com/Jayalakshm1/SIHPS/assets/130430542/551a540a-c275-43f0-beda-4b877d9e4316)
 ## Use Cases
+```
 1.Find Nearest E-Waste Facility: Users can search for the nearest e-waste collection and recycling facilities based on their current location or input location.
 2.Educational Resources: Users can access educational pop-ups or sections to learn about the harmful components of e-waste and their environmental and health impacts.
 3.Input Device Model for Recycling Credits: Users can input the model or type of their old device to calculate potential recycling credits based on recovered precious metals.
 4.Earn Rewards for Responsible Disposal: Users can earn credit points or rewards for responsibly disposing of their e-waste.
 5.Feedback and Reporting: Users can provide feedback on facility information accuracy and report any issues.
-
+```
 ![image](https://github.com/Jayalakshm1/SIHPS/assets/130430542/7defc7a6-acb3-4355-96d0-aa9a2b03e5e1)
 ## Technology Stack
 ```
